@@ -667,3 +667,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.30-15.44.45:669][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
 [2019.04.30-15.44.46:930][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.04.30-15.44.46:940][130]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.30-15.46.46:891][680]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.30-15.46.46:897][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.46.46:898][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.30-15.46.46:898][680]PIE: New page: PIE session: 2DSideScrollerExampleMap (30 apr. 2019 19:46:46)
+[2019.04.30-15.46.46:911][680]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.30-15.46.46:913][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002264s)
+[2019.04.30-15.46.46:914][680]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.30-15.46.46:914][680]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.04.30-15.46.46:914][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002954s)
+[2019.04.30-15.46.46:938][680]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.30-15.46.46:956][680]LogInit: FAudioDevice initialized.
+[2019.04.30-15.46.46:999][680]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.30-15.46.47:001][680]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.30-17.46.47
+[2019.04.30-15.46.47:001][680]LogWorld: Bringing up level for play took: 0.001040
+[2019.04.30-15.46.47:019][680]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.30-15.46.47:020][680]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,434
+[2019.04.30-15.46.47:020][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.47.17:648][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.47.17:648][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-15.47.17:678][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.30-15.47.17:679][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.47.17:702][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-15.47.17:750][359]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.30-15.47.19:010][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.47.20:950][741]MapCheck: New page: Map Check
+[2019.04.30-15.47.20:970][741]LightingResults: New page: Lighting Build - 30 apr. 2019 19:47:20
+[2019.04.30-15.47.21:010][741]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.30-15.47.21:329][741]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.30-15.47.21:345][741]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.30-15.47.21:877][741]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.30-15.47.21:877][741]LogSwarmInterface: [TryOpenConnection] Local Process ID is 29752
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.30-15.47.26:592][741]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.30-15.47.26:719][741]LogEditorBuildUtils: Build time 0:05
+[2019.04.30-15.47.28:410][850]Job is a success!
+[2019.04.30-15.47.28:428][852]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.04.30-15.47.28:466][852]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.04.30-15.47.28:498][852]Lightmass on LAPTOP-0K7HCOH9: 1.17 sec total, 68 ms importing, 9 ms setup, 701 ms photons, 351 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 3.36 sec total, 0 ms processing.
+[2019.04.30-15.47.28:532][852]LogStaticLightingSystem: Illumination: 7.54 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.04.30-15.47.28:532][852]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.30-15.47.28:532][852]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.30-15.47.28:606][852]DumpUnbuiltLightIteractions
+[2019.04.30-15.47.28:606][852]Lights with unbuilt interactions: 0
+[2019.04.30-15.47.28:606][852]
+[2019.04.30-15.47.28:606][852]Primitives with unbuilt interactions: 0
+[2019.04.30-15.47.28:637][853]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.30-15.47.28:638][853]MapCheck: New page: 2DSideScrollerExampleMap - 30 apr. 2019 19:47:28
+[2019.04.30-15.47.28:638][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,663ms to complete.
+[2019.04.30-15.48.05:165][226]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.30-15.48.28:912][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:912][ 70]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: URL: C:\Users\leonv\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:913][ 70]LogWindows: Warning: URL: C:\Users\leonv\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.04.30-15.48.28:914][ 70]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.28:914][ 70]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.04.30-15.48.32:202][464]LogWindows: Warning: CreateProc failed: Het systeem kan het opgegeven bestand niet vinden. (0x00000002)
+[2019.04.30-15.48.32:203][464]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/ version
+[2019.04.30-15.52.03:768][250]SourceControl: Source control is disabled
+[2019.04.30-15.52.03:768][250]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.30-15.52.12:307][263]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.04.30-15.52.16:713][755]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-15.52.38:113][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.52.46:534][302]LogRenderer: Reallocating scene render targets to support 1020x576 Format 10 NumSamples 1 (Frame:19654).
+[2019.04.30-15.52.46:569][303]LogRenderer: Reallocating scene render targets to support 1028x576 Format 10 NumSamples 1 (Frame:19656).
+[2019.04.30-15.52.46:606][304]LogRenderer: Reallocating scene render targets to support 1040x576 Format 10 NumSamples 1 (Frame:19658).
+[2019.04.30-15.52.46:641][305]LogRenderer: Reallocating scene render targets to support 1048x576 Format 10 NumSamples 1 (Frame:19660).
+[2019.04.30-15.52.46:676][306]LogRenderer: Reallocating scene render targets to support 1056x576 Format 10 NumSamples 1 (Frame:19662).
+[2019.04.30-15.52.46:711][307]LogRenderer: Reallocating scene render targets to support 1064x576 Format 10 NumSamples 1 (Frame:19664).
+[2019.04.30-15.52.46:747][308]LogRenderer: Reallocating scene render targets to support 1072x576 Format 10 NumSamples 1 (Frame:19666).
+[2019.04.30-15.52.46:781][309]LogRenderer: Reallocating scene render targets to support 1076x576 Format 10 NumSamples 1 (Frame:19668).
+[2019.04.30-15.52.46:816][310]LogRenderer: Reallocating scene render targets to support 1084x576 Format 10 NumSamples 1 (Frame:19670).
+[2019.04.30-15.52.46:852][311]LogRenderer: Reallocating scene render targets to support 1092x576 Format 10 NumSamples 1 (Frame:19672).
+[2019.04.30-15.52.54:357][203]LogActorFactory: Actor Factory created Cube
+[2019.04.30-15.52.55:267][311]LogActorFactory: Actor Factory created Cube
+[2019.04.30-15.52.57:976][629]Cmd: DELETE
+[2019.04.30-15.52.57:976][629]Cmd: ACTOR DELETE
+[2019.04.30-15.52.57:979][629]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.30-15.52.58:004][629]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.30-15.52.59:250][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.52.59:381][793]LogActorFactory: Actor Factory created Sphere
+[2019.04.30-15.52.59:726][834]LogActorFactory: Actor Factory created Sphere
+[2019.04.30-15.53.03:148][240]Cmd: DELETE
+[2019.04.30-15.53.03:148][240]Cmd: ACTOR DELETE
+[2019.04.30-15.53.03:151][240]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.30-15.53.03:174][240]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.04.30-15.53.07:883][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.54.11:105][369]Cmd: TRANSACTION UNDO
+[2019.04.30-15.54.11:105][369]LogEditorTransaction: Undo Delete Actors
+[2019.04.30-15.54.14:481][767]Cmd: TRANSACTION REDO
+[2019.04.30-15.54.14:481][767]LogEditorTransaction: Redo Delete Actors
+[2019.04.30-15.54.35:915][324]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-15.55.04:664][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.55.07:397][ 81]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.04.30-15.55.07:763][ 81]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.30-15.55.08:375][ 81]LogSlate: Took 0.000715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.30-15.55.08:487][ 82]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.30-15.56.15:070][303]LogSlate: Took 0.000815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.30-15.56.40:811][757]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.04.30-15.56.44:017][ 63]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-15.56.45:831][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-15.56.58:098][616]LogSlate: Window '2DSideScrollerCharacter*' being destroyed
+[2019.04.30-15.57.00:216][870]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.00:216][870]LogEditorTransaction: Undo Edit Bool
+[2019.04.30-15.57.00:219][870]LogActorComponent: ~FComponentReregisterContext: (/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.CollisionCylinder) Component already registered.
+[2019.04.30-15.57.00:621][918]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.00:621][918]LogEditorTransaction: Undo Edit Bool
+[2019.04.30-15.57.00:624][918]LogActorComponent: ~FComponentReregisterContext: (/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_254.CollisionCylinder) Component already registered.
+[2019.04.30-15.57.00:948][957]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.00:948][957]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.30-15.57.01:224][990]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.01:224][990]LogEditorTransaction: Undo Add Node
+[2019.04.30-15.57.01:489][ 15]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.01:489][ 15]LogEditorTransaction: Undo Rename Variable
+[2019.04.30-15.57.02:292][102]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.02:292][102]LogEditorTransaction: Undo Add Variable
+[2019.04.30-15.57.02:716][146]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.02:716][146]LogEditorTransaction: Undo Move Node
+[2019.04.30-15.57.02:980][171]Cmd: TRANSACTION UNDO
+[2019.04.30-15.57.02:980][171]LogEditorTransaction: Undo Add Node
+[2019.04.30-15.57.24:512][721]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.04.30-15.57.26:408][906]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.30-15.57.26:421][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.57.26:421][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.30-15.57.26:421][906]PIE: New page: PIE session: 2DSideScrollerExampleMap (30 apr. 2019 19:57:26)
+[2019.04.30-15.57.26:421][906]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.30-15.57.26:423][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002167s)
+[2019.04.30-15.57.26:423][906]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.30-15.57.26:424][906]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2019.04.30-15.57.26:424][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002724s)
+[2019.04.30-15.57.26:480][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.30-15.57.26:498][906]LogInit: FAudioDevice initialized.
+[2019.04.30-15.57.26:530][906]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.04.30-15.57.26:531][906]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.30-17.57.26
+[2019.04.30-15.57.26:531][906]LogWorld: Bringing up level for play took: 0.000719
+[2019.04.30-15.57.26:544][906]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Hello
+[2019.04.30-15.57.26:544][906]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,043
+[2019.04.30-15.57.26:544][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.57.30:877][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.57.30:877][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-15.57.30:912][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.30-15.57.30:912][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.30-15.57.30:939][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-15.57.30:981][414]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.30-15.57.35:413][927]LogEditorTransaction: Undo Delete current selection
+[2019.04.30-15.57.35:683][947]LogEditorTransaction: Undo Create Pin Link
+[2019.04.30-15.57.36:169][  5]LogEditorTransaction: Undo Move Node
+[2019.04.30-15.57.36:719][ 64]LogEditorTransaction: Undo Add Node
+[2019.04.30-15.57.48:402][452]LogEditorTransaction: Undo Rename Node
+[2019.04.30-15.57.49:046][522]LogEditorTransaction: Undo Rename Node
+[2019.04.30-15.57.49:501][570]LogEditorTransaction: Undo Add Node
+[2019.04.30-15.59.11:050][238]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerExampleMap_Auto1ED9B3DA2402F59D49C42DAAEDEA7338B.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.04.30-15.59.11:055][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.139
+[2019.04.30-15.59.11:055][238]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.139
+[2019.04.30-15.59.11:057][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.04.30-15.59.11:057][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2019.04.30-15.59.11:083][238]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerCharacter_Auto15EDD499F43F9BBDB2DA1E5BE5EE53F59.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2019.04.30-15.59.11:085][238]LogFileHelpers: Auto-saving content packages took 0.028
+[2019.04.30-15.59.26:429][ 24]LogRenderer: Reallocating scene render targets to support 1196x712 Format 10 NumSamples 1 (Frame:1).
+[2019.04.30-15.59.57:413][638]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.04.30-16.00.14:980][644]LogEditorTransaction: Undo Delete current selection
+[2019.04.30-16.00.15:256][672]LogEditorTransaction: Undo Move Node
+[2019.04.30-16.00.15:769][729]LogEditorTransaction: Undo Add Node
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: 000001C9AC9D2AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: 000001C9AC9D2AC0: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: 000001C9AC9D2AC0: libcurl info message cache 1 (Closing connection 5)
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: 000001C9AC9D2AC0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: 000001C9AC9D2AC0: libcurl info message cache 3 (Closing connection 6)
+[2019.04.30-16.00.45:659][200]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD18BB249-425F-017C-FCBC-B3BA128CDAD7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=29e92977454c29798dcc09b5e5c0c755%7Cbac3b0ca4ddb48d59611e6cd2190cdf5%7C0d58c018-caee-40eb-824f-9d33bd703b0f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.30-16.03.38:345][889]LogEditorTransaction: Undo Delete current selection
+[2019.04.30-16.03.38:618][917]LogEditorTransaction: Undo Delete current selection
+[2019.04.30-16.03.38:922][949]LogEditorTransaction: Undo Create Pin Link
+[2019.04.30-16.03.39:247][988]LogEditorTransaction: Undo Move Node
+[2019.04.30-16.03.39:598][ 26]LogEditorTransaction: Undo Create Pin Link
+[2019.04.30-16.03.39:908][ 59]LogEditorTransaction: Undo Add Node
+[2019.04.30-16.03.40:226][ 93]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.04.30-16.03.40:611][135]LogEditorTransaction: Undo Create Pin Link
+[2019.04.30-16.03.41:253][208]LogEditorTransaction: Undo Add Node
+[2019.04.30-16.04.06:602][221]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.04.30-16.07.00:338][925]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.04.30-16.09.25:086][851]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerExampleMap_Auto226DDFCA34EEAC0BCEDCB4E9A0F7994E5.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.04.30-16.09.25:089][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.141
+[2019.04.30-16.09.25:089][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.141
+[2019.04.30-16.09.25:091][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.04.30-16.09.25:091][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2019.04.30-16.09.25:117][851]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerCharacter_Auto2DC2D0A6948930009E804A08CD82F2CF5.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto2.uasset'
+[2019.04.30-16.09.25:119][851]LogFileHelpers: Auto-saving content packages took 0.028
+[2019.04.30-16.13.55:802][452]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-16.13.56:484][532]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-16.13.57:095][604]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-16.14.02:477][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-16.14.05:337][588]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2019.04.30-16.14.11:261][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.11:816][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.17:260][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.19:448][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.24:184][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.31:105][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.32:940][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.14.44:339][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.30-16.18.34:610][863]Cmd: EDIT CUT
+[2019.04.30-16.18.34:618][863]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2019.04.30-16.18.34:671][863]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.46:997][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.04.30-16.18.47:003][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2019.04.30-16.18.47:003][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2019.04.30-16.18.47:003][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2019.04.30-16.18.47:003][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2019.04.30-16.18.47:003][323]LogMetaData: Removing '/Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2019.04.30-16.18.47:059][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerCharacter6449846C487B86CF6D3C8BAB863007B8.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.04.30-16.18.47:067][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerCharacter3BF63BC6464CDC92414DB4B6588825B9.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.04.30-16.18.47:076][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerGameMode4BBE541D4AA8FCDFB722DAAD317FF128.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/Blueprints/2DSideScrollerGameMode.uasset'
+[2019.04.30-16.18.47:083][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerGameModeB2C5048349E644273512829A43180596.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2019.04.30-16.18.47:155][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/MainMenu.PackageMetaData'
+[2019.04.30-16.18.47:156][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/MainMenu.MainMenu_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/MainMenu.PackageMetaData'
+[2019.04.30-16.18.47:156][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/2DSideScrollerBP/Maps/MainMenu.PackageMetaData'
+[2019.04.30-16.18.47:156][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/2DSideScrollerBP/Maps/MainMenu.PackageMetaData'
+[2019.04.30-16.18.47:276][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2019.04.30-16.18.47:276][323]LogMetaData: Removing '/Game/2DSideScroller/Maps/2DSideScrollerExampleMap.SKEL_2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2019.04.30-16.18.47:301][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerExampleMap_BuiltDa5013FB2C4F0F13553664B39E751758E8.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.04.30-16.18.47:424][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/MainMenu860B64774E556CB1095EA48CE8749D34.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/Maps/MainMenu.umap'
+[2019.04.30-16.18.47:427][323]LogFileHelpers: Saving map 'MainMenu' took 0.121
+[2019.04.30-16.18.47:561][323]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerExampleMap58189723480571F8AE4633B4F4256105.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/Maps/2DSideScrollerExampleMap.umap'
+[2019.04.30-16.18.47:574][323]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.145
+[2019.04.30-16.19.36:034][ 32]LogSlate: Window 'Tutorials' being destroyed
+[2019.04.30-16.20.04:284][230]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.30-16.20.07:225][558]LogMetaData: Removing '/Game/2DSideScroller/2DSideScrollerOverview.2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2019.04.30-16.20.07:225][558]LogMetaData: Removing '/Game/2DSideScroller/2DSideScrollerOverview.SKEL_2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2019.04.30-16.20.07:253][558]LogSavePackage: Moving '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Saved/2DSideScrollerOverviewDD5FEBA94E120070FFC4A2986F9D5B66.tmp' to '../../../../../../Users/leonv/Documents/GitHub/ChickenKip/ChickenKip/Content/2DSideScroller/2DSideScrollerOverview.uasset'
+[2019.04.30-16.20.34:189][873]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.30-16.21.19:218][132]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.30-16.21.23:170][585]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScroller/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
